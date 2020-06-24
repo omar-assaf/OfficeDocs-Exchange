@@ -112,9 +112,9 @@ An Admin or user with full access to the resource mailbox can make changes to th
 
 2. Click **Open another mailbox**. Locate the meeting room resource you want and click **Open**.
 
-3. Go to **settings** and click **Calendar**.
+3. Go to **settings**, scroll down to the bottom and click **View all outlook settings**.
 
-4. Navigate to **Resource scheduling**.
+4. Navigate to **Resource scheduling** under **Calendar**
 
 5. Configure the Scheduling Options and Scheduling Permissions as needed. (See the descriptions of all options in the following two sections for details.)
 
